@@ -1,0 +1,2 @@
+# Libpubgm
+libpubgm.so
